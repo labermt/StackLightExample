@@ -92,19 +92,19 @@
                 android:id="@+id/radioButtonOff"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Off" />
+                android:text="0" />
 
             <RadioButton
                 android:id="@+id/radioButtonOn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="On" />
+                android:text="1" />
 
             <RadioButton
                 android:id="@+id/radioButtonBlink"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Blink" />
+                android:text="0 1 0 1..." />
 
         </RadioGroup>
 
